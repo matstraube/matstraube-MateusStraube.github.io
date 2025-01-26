@@ -73,7 +73,7 @@
         </div>
     </main>
     <footer>
-        <p>Desenvolvido por Matheus Straube | Inspirado em J.K. Rowling</p>
+        <p>Desenvolvido por Mateus Straube | Inspirado em J.K. Rowling</p>
     </footer>
 </body>
 </html>
